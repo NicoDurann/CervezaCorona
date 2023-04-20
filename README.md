@@ -1,5 +1,3 @@
-# NicoDurann.github.io
-
 <h1>Landing Page for Corona Beer</h1>
 
 <p>This is a landing page created for Corona Beer, showcasing the features, benefits, and products of the brand. The page is designed to attract potential customers and encourage them to try out the product. It also includes a contact section for users to get in touch with the brand.</p>
